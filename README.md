@@ -1,4 +1,4 @@
-# Big data analytics - Assignment2 -Computing airport ride revenue
+# Big data analytics -Computing airport ride revenue
 
 ## Getting Started
 
@@ -40,6 +40,6 @@ jar cf Exercise2.jar *.class
 
 ## Authors
 
-* **Adrien Dubois** - * R0736348* - [2019-2020]
+* **Adrien Dubois** - * - [2019-2020]
 
 
