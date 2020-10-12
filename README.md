@@ -40,6 +40,6 @@ jar cf Exercise2.jar *.class
 
 ## Authors
 
-* **Adrien Dubois** - * - [2019-2020]
+* **Adrien Dubois** - * - [2020]
 
 
